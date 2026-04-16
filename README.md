@@ -41,6 +41,7 @@ Sistema completo de administração de minas.
 * Encantamentos personalizados
 * Mensagens e menus 100% configuráveis
 * Sistema de database MYSQL para servidores grandes
+
 https://github.com/vulgolovethx/LoveMinas
 
  🔹 lvMinasPV
@@ -56,6 +57,7 @@ Sistema avançado de minas privadas (integrado ao lvMinas).
 * Abertura da mina com comissão
 * Sistema completo de progressão
 * Sistema de database MYSQL para servidores grandes
+
 https://github.com/vulgolovethx/lvMinasPV
 
  🔹 lvCore
@@ -68,6 +70,7 @@ Sistema base obrigatório para todos os plugins LV.
 * Geração de Server-ID
 * Autenticação via Key única
 * Proteção contra uso não autorizado
+
 https://github.com/vulgolovethx/lvCore
 
  🛠️ Diferenciais
